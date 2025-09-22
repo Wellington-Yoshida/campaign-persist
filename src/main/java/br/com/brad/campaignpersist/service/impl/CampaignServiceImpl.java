@@ -1,7 +1,6 @@
 package br.com.brad.campaignpersist.service.impl;
 
 import org.springframework.stereotype.Service;
-
 import lombok.RequiredArgsConstructor;
 import lombok.extern.log4j.Log4j2;
 
